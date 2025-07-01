@@ -13,3 +13,5 @@ This project helped me sharpen my skills in:
 ✔️ CSS media queries and responsive layout design.
 ✔️ Theme toggling with CSS variables and JavaScript logic.
 
+In Light Mode
+![image alt](https://github.com/BinaySharma25/Age-Calculator/blob/main/Screenshots/Age-Calculator-light.png?raw=true)
