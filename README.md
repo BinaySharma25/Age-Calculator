@@ -20,6 +20,9 @@ This project helped me sharpen my skills in:
 
 ✔️ Theme toggling with CSS variables and JavaScript logic.
 
+Age-Calculator
+![image alt](https://github.com/BinaySharma25/Age-Calculator/blob/main/Screenshots/Age-Calculator.png?raw=true)
+
 In Light Mode
 ![image alt](https://github.com/BinaySharma25/Age-Calculator/blob/main/Screenshots/Age-Calculator-light.png?raw=true)
 
