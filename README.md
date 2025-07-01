@@ -12,6 +12,7 @@ This project includes:
 • Clean UI/UX – Built with a focus on simplicity, usability, and visual appeal.
 
 This project helped me sharpen my skills in:
+
 ✔️ DOM manipulation.
 
 ✔️ Event handling in JavaScript.
