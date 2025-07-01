@@ -2,6 +2,7 @@
 Built an Age Calculator using HTML, CSS, and JavaScript!
 
 This project includes:
+
 • Dark Mode Toggle – Easily switch between light and dark themes with a smooth toggle button.
 
 • Fully Responsive Design – Optimized for all screen sizes, from mobile phones to desktops.
